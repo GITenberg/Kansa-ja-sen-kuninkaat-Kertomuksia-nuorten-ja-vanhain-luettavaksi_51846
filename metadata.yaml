@@ -1,11 +1,14 @@
 _repo: Kansa-ja-sen-kuninkaat-Kertomuksia-nuorten-ja-vanhain-luettavaksi_51846
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Svenskarna och deras hövdingar. Finnish
 contributor:
   translator:
     agent_name: Lehtonen, Vihtori
     gutenberg_agent_id: '41672'
     url: http://www.gutenberg.org/2009/agents/41672
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Heidenstam, Verner von
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5027
     wikipedia: http://en.wikipedia.org/wiki/Verner_von_Heidenstam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51846#Kansa-ja-sen-kuninkaat-Kertomuksia-nuorten-ja-vanhain-luettavaksi
 gutenberg_issued: '2016-04-23'
 gutenberg_type: Text
 identifiers:
