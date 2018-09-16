@@ -1,0 +1,43 @@
+_repo: Kansa-ja-sen-kuninkaat-Kertomuksia-nuorten-ja-vanhain-luettavaksi_51846
+_version: 0.0.1
+alternative_title: Svenskarna och deras hövdingar. Finnish
+contributor:
+  translator:
+    agent_name: Lehtonen, Vihtori
+    gutenberg_agent_id: '41672'
+    url: http://www.gutenberg.org/2009/agents/41672
+creator:
+  author:
+    agent_name: Heidenstam, Verner von
+    aliases:
+    - Von Heidenstam, Verner
+    - Heidenstam, Karl Gustaf Verner von
+    birthdate: 1859
+    deathdate: 1940
+    gutenberg_agent_id: '5027'
+    url: http://www.gutenberg.org/2009/agents/5027
+    wikipedia: http://en.wikipedia.org/wiki/Verner_von_Heidenstam
+description: ''
+gutenberg_issued: '2016-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51846'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Sweden -- History'
+- GITenberg
+tableOfContents: Lukemattomien kivikirveiden päällikkö -- Vanha Ane -- Adilsin kultasepät
+  -- Ingjald Ilkeämielinen -- Lodbrokin pojat -- Ansgarius -- Kilpineito -- Sigrid
+  Äveriään kosijat -- Arnljot Jälliläinen -- Kreikan kuninkaan talonvahti -- Vanha
+  Sverker -- Vetehinen -- Jättiläisnainen -- Eerikki Pyhä ja vuoren lumokas -- Kuka
+  oli vieraamme -- Birger Jaarli -- Hovan tappelu -- Torkkeli Nuutinpoika -- Nyköpingin
+  pidot -- Joulu-yö Finnstadissa -- Maunu Liehakko -- Visby -- Kuningas Albrektin
+  aikaan -- Engelbrekt -- Kaarle Nuutinpoika ja rotankesyttäjä -- Pikku Sisar -- Brunke-vuoren
+  tappelu -- Tarina paksusta päämunkista ja Ljungbyn juomasarvesta ja pillistä --
+  Vanhat lait, jäykät mielet -- Nuori herra Sten -- Tukholman verilöyly.
+title: 'Kansa ja sen kuninkaat: Kertomuksia nuorten ja vanhain luettavaksi'
+url: http://www.gutenberg.org/ebooks/51846
